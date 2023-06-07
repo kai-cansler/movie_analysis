@@ -21,10 +21,10 @@ The MovieDB and IMDB datasets to complete our exploratory data analysis. These t
 This project uses descriptive analysis, including group by commands to understand how genres as a whole affects return on investment and net profit. We will also use these techniques to look at what month would be the best to release a movie in terms of generating highest net profit. Lastly we will look at how budget and runtime affect the net profit of a movie.
 
 ![mean net profit by genre](https://github.com/kai-cansler/movie_analysis/blob/main/mean_np_genre.png)
-![mean net profit by month](https://github.com/kai_cansler/movie_analysis/blob/main/mean_np_month.png?raw=true)
-![mean ROI by genre](https://github.com/kai_cansler/movie_analysis/blob/main/mean_roi_genre.png?raw=true)
-![mean ROI by month](https://github.com/kai_cansler/movie_analysis/blob/main/mean_roi_month.png?raw=true)
-![runtime and budget](https://github.com/kai_cansler/movie_analysis/blob/main/runtime_budget.png?raw=true)
+![mean net profit by month](https://github.com/kai_cansler/movie_analysis/blob/main/mean_np_month.png)
+![mean ROI by genre](https://github.com/kai_cansler/movie_analysis/blob/main/mean_roi_genre.png)
+![mean ROI by month](https://github.com/kai_cansler/movie_analysis/blob/main/mean_roi_month.png)
+![runtime and budget](https://github.com/kai_cansler/movie_analysis/blob/main/runtime_budget.png)
 
 ## Conclusion
 From our exploratory data analysis we have found some valuable insights from our movie datasets. 
