@@ -20,15 +20,15 @@ The MovieDB and The Numbers datasets to complete our exploratory data analysis. 
 ## Method
 This project uses descriptive analysis, including group by commands to understand how genres as a whole affects return on investment and net profit. We will also use these techniques to look at what month would be the best to release a movie in terms of generating highest net profit. Lastly we will look at how budget and runtime affect the net profit of a movie.
 
-![mean net profit by genre](https://github.com/kai-cansler/movie_analysis/blob/main/images/mean_np_genre.png)
+![mean net profit by genre](https://github.com/kai-cansler/movie_analysis/blob/main/graphs/mean_np_genre.png)
 From the visualization we can see that the movie genres that generate the highest net profit are Animation, Adventure, and Sci-Fi films. This tells us that for projects where our goal is to have the highest cashflow will be one of these genres.
-![mean net profit by month](https://github.com/kai-cansler/movie_analysis/blob/main/images/mean_np_month.png)
+![mean net profit by month](https://github.com/kai-cansler/movie_analysis/blob/main/graphs/mean_np_month.png)
 The best time to release our high net profit projects is May.
-![mean ROI by genre](https://github.com/kai-cansler/movie_analysis/blob/main/images/mean_roi_genre.png)
+![mean ROI by genre](https://github.com/kai-cansler/movie_analysis/blob/main/graphs/mean_roi_genre.png)
 From the visualization we can see that the movie genres thtat generate the highest ROI are Mystery, Horror, and Thriller films. This tells us that for projects where our goal is to have the highest return on investment will be one of these genres.
-![mean ROI by month](https://github.com/kai-cansler/movie_analysis/blob/main/images/mean_roi_month.png)
+![mean ROI by month](https://github.com/kai-cansler/movie_analysis/blob/main/graphs/mean_roi_month.png)
 The best time to release our high ROI projects is July.
-![runtime and budget](https://github.com/kai-cansler/movie_analysis/blob/main/images/runtime_budget.png)
+![runtime and budget](https://github.com/kai-cansler/movie_analysis/blob/main/graphs/runtime_budget.png)
 We can see a positive correlation 
 
 ## Conclusion
